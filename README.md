@@ -1,1 +1,1 @@
-# xboard-admin-dist\n\n此仓库为 [xboard-admin](https://github.com/null404-0/xboard-admin) 的自动编译产物。\n\n> 由 GitHub Actions 自动生成，**请勿手动修改**。\n
+123
