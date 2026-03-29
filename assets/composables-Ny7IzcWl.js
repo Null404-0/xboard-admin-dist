@@ -1,0 +1,1 @@
+import{N as i,s as n}from"./index-BDrYp0fL.js";import{t as r}from"./warn-D1_Pwkgb.js";const e=i("n-dialog-api");function l(){const o=n(e,null);return o===null&&r("use-dialog","No outer <n-dialog-provider /> founded."),o}export{l as u};
