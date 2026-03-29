@@ -1,0 +1,1 @@
+import{B as o,s as e}from"./index-D4hu185B.js";import{t as n}from"./warn-D1_Pwkgb.js";const s=o("n-dialog-provider"),a=o("n-dialog-api"),d=o("n-dialog-reactive-list");function l(){const i=e(a,null);return i===null&&n("use-dialog","No outer <n-dialog-provider /> founded."),i}export{a,d as b,s as d,l as u};
