@@ -1,48 +1,48 @@
 {
-  "_AddOutline-COTHRvY4.js": {
-    "file": "assets/AddOutline-COTHRvY4.js",
+  "_AddOutline-dwOCO9Xm.js": {
+    "file": "assets/AddOutline-dwOCO9Xm.js",
     "name": "AddOutline",
     "imports": [
       "index.html"
     ]
   },
-  "_CloudUploadOutline-52rKTgqZ.js": {
-    "file": "assets/CloudUploadOutline-52rKTgqZ.js",
+  "_CloudUploadOutline-DGxKAGNA.js": {
+    "file": "assets/CloudUploadOutline-DGxKAGNA.js",
     "name": "CloudUploadOutline",
     "imports": [
       "index.html"
     ]
   },
-  "_PeopleOutline-6CJch6q9.js": {
-    "file": "assets/PeopleOutline-6CJch6q9.js",
+  "_PeopleOutline-CG62tBGN.js": {
+    "file": "assets/PeopleOutline-CG62tBGN.js",
     "name": "PeopleOutline",
     "imports": [
       "index.html"
     ]
   },
-  "_RefreshOutline-hNTVBYJ1.js": {
-    "file": "assets/RefreshOutline-hNTVBYJ1.js",
+  "_RefreshOutline-ChxWwYe5.js": {
+    "file": "assets/RefreshOutline-ChxWwYe5.js",
     "name": "RefreshOutline",
     "imports": [
       "index.html"
     ]
   },
-  "_SearchOutline-MbAhyGct.js": {
-    "file": "assets/SearchOutline-MbAhyGct.js",
+  "_SearchOutline-DJfaQ3_J.js": {
+    "file": "assets/SearchOutline-DJfaQ3_J.js",
     "name": "SearchOutline",
     "imports": [
       "index.html"
     ]
   },
-  "_ServerOutline-CZ-3Girg.js": {
-    "file": "assets/ServerOutline-CZ-3Girg.js",
+  "_ServerOutline-OfDuLUk0.js": {
+    "file": "assets/ServerOutline-OfDuLUk0.js",
     "name": "ServerOutline",
     "imports": [
       "index.html"
     ]
   },
-  "_SettingsOutline-uhzVt-f0.js": {
-    "file": "assets/SettingsOutline-uhzVt-f0.js",
+  "_SettingsOutline-BQ9O1Edx.js": {
+    "file": "assets/SettingsOutline-BQ9O1Edx.js",
     "name": "SettingsOutline",
     "imports": [
       "index.html"
@@ -52,8 +52,8 @@
     "file": "assets/_plugin-vue_export-helper-DlAUqK2U.js",
     "name": "_plugin-vue_export-helper"
   },
-  "_config-BIfS9Zig.js": {
-    "file": "assets/config-BIfS9Zig.js",
+  "_config-DtNAQsnW.js": {
+    "file": "assets/config-DtNAQsnW.js",
     "name": "config",
     "imports": [
       "index.html",
@@ -86,7 +86,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-odttQDjH.js",
+    "file": "assets/index-CTMKDyPQ.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -112,17 +112,17 @@
     ]
   },
   "src/layouts/AdminLayout.vue": {
-    "file": "assets/AdminLayout-FUS8MZd4.js",
+    "file": "assets/AdminLayout-DO6OQoSu.js",
     "name": "AdminLayout",
     "src": "src/layouts/AdminLayout.vue",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_config-BIfS9Zig.js",
-      "_SearchOutline-MbAhyGct.js",
-      "_SettingsOutline-uhzVt-f0.js",
-      "_ServerOutline-CZ-3Girg.js",
-      "_PeopleOutline-6CJch6q9.js",
+      "_config-DtNAQsnW.js",
+      "_SearchOutline-DJfaQ3_J.js",
+      "_SettingsOutline-BQ9O1Edx.js",
+      "_ServerOutline-OfDuLUk0.js",
+      "_PeopleOutline-CG62tBGN.js",
       "__plugin-vue_export-helper-DlAUqK2U.js",
       "_index-CwAVuqeq.js",
       "_index-qFyJwsfU.js"
@@ -132,7 +132,7 @@
     ]
   },
   "src/views/dashboard/index.vue": {
-    "file": "assets/index-D9MawtUO.js",
+    "file": "assets/index-w7MYQ_UK.js",
     "name": "index",
     "src": "src/views/dashboard/index.vue",
     "isDynamicEntry": true,
@@ -140,10 +140,10 @@
       "index.html",
       "__plugin-vue_export-helper-DlAUqK2U.js",
       "_index-CwAVuqeq.js",
-      "_PeopleOutline-6CJch6q9.js",
-      "_CloudUploadOutline-52rKTgqZ.js",
-      "_ServerOutline-CZ-3Girg.js",
-      "_RefreshOutline-hNTVBYJ1.js",
+      "_PeopleOutline-CG62tBGN.js",
+      "_CloudUploadOutline-DGxKAGNA.js",
+      "_ServerOutline-OfDuLUk0.js",
+      "_RefreshOutline-ChxWwYe5.js",
       "_index-qFyJwsfU.js"
     ],
     "css": [
@@ -151,7 +151,7 @@
     ]
   },
   "src/views/login/index.vue": {
-    "file": "assets/index-RL9fktbb.js",
+    "file": "assets/index-CpQvOTSi.js",
     "name": "index",
     "src": "src/views/login/index.vue",
     "isDynamicEntry": true,
@@ -165,31 +165,31 @@
     ]
   },
   "src/views/order/coupons/index.vue": {
-    "file": "assets/index-TXz6ONLt.js",
+    "file": "assets/index-D6dmLk5O.js",
     "name": "index",
     "src": "src/views/order/coupons/index.vue",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_index-CwAVuqeq.js",
-      "_AddOutline-COTHRvY4.js",
+      "_AddOutline-dwOCO9Xm.js",
       "_index-qFyJwsfU.js"
     ]
   },
   "src/views/order/gift-cards/index.vue": {
-    "file": "assets/index-ktaczxph.js",
+    "file": "assets/index-fiQ4a87W.js",
     "name": "index",
     "src": "src/views/order/gift-cards/index.vue",
     "isDynamicEntry": true,
     "imports": [
       "_index-CwAVuqeq.js",
       "index.html",
-      "_AddOutline-COTHRvY4.js",
+      "_AddOutline-dwOCO9Xm.js",
       "_index-qFyJwsfU.js"
     ]
   },
   "src/views/order/orders/index.vue": {
-    "file": "assets/index-FN25h3Yd.js",
+    "file": "assets/index-MrHeYQxW.js",
     "name": "index",
     "src": "src/views/order/orders/index.vue",
     "isDynamicEntry": true,
@@ -200,7 +200,7 @@
     ]
   },
   "src/views/order/plans/index.vue": {
-    "file": "assets/index-BOVNgfLN.js",
+    "file": "assets/index-D_cICIW1.js",
     "name": "index",
     "src": "src/views/order/plans/index.vue",
     "isDynamicEntry": true,
@@ -208,64 +208,64 @@
       "_plan-Bc8bXeU5.js",
       "_server-D9nyxA6B.js",
       "index.html",
-      "_AddOutline-COTHRvY4.js",
+      "_AddOutline-dwOCO9Xm.js",
       "_index-CwAVuqeq.js",
       "_index-qFyJwsfU.js"
     ]
   },
   "src/views/server/groups/index.vue": {
-    "file": "assets/index-BHzJlmDY.js",
+    "file": "assets/index-BAfy2T5r.js",
     "name": "index",
     "src": "src/views/server/groups/index.vue",
     "isDynamicEntry": true,
     "imports": [
       "_server-D9nyxA6B.js",
       "index.html",
-      "_AddOutline-COTHRvY4.js",
+      "_AddOutline-dwOCO9Xm.js",
       "_index-CwAVuqeq.js",
       "_index-qFyJwsfU.js"
     ]
   },
   "src/views/server/nodes/index.vue": {
-    "file": "assets/index-DK7m1Vd6.js",
+    "file": "assets/index-CIjyoz0R.js",
     "name": "index",
     "src": "src/views/server/nodes/index.vue",
     "isDynamicEntry": true,
     "imports": [
       "_server-D9nyxA6B.js",
       "index.html",
-      "_AddOutline-COTHRvY4.js",
-      "_SettingsOutline-uhzVt-f0.js",
-      "_PeopleOutline-6CJch6q9.js",
+      "_AddOutline-dwOCO9Xm.js",
+      "_SettingsOutline-BQ9O1Edx.js",
+      "_PeopleOutline-CG62tBGN.js",
       "_index-CwAVuqeq.js",
       "_index-qFyJwsfU.js"
     ]
   },
   "src/views/server/routes/index.vue": {
-    "file": "assets/index-NkpAW2F4.js",
+    "file": "assets/index-BPdQxnrs.js",
     "name": "index",
     "src": "src/views/server/routes/index.vue",
     "isDynamicEntry": true,
     "imports": [
       "_server-D9nyxA6B.js",
       "index.html",
-      "_AddOutline-COTHRvY4.js",
+      "_AddOutline-dwOCO9Xm.js",
       "_index-CwAVuqeq.js",
       "_index-qFyJwsfU.js"
     ]
   },
   "src/views/system/config/index.vue": {
-    "file": "assets/index-C1kMG1Rx.js",
+    "file": "assets/index-BDk2gEPi.js",
     "name": "index",
     "src": "src/views/system/config/index.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_config-BIfS9Zig.js",
+      "_config-DtNAQsnW.js",
       "index.html",
       "__plugin-vue_export-helper-DlAUqK2U.js",
-      "_RefreshOutline-hNTVBYJ1.js",
+      "_RefreshOutline-ChxWwYe5.js",
       "_index-CwAVuqeq.js",
-      "_ServerOutline-CZ-3Girg.js",
+      "_ServerOutline-OfDuLUk0.js",
       "_index-qFyJwsfU.js"
     ],
     "css": [
@@ -273,68 +273,68 @@
     ]
   },
   "src/views/system/knowledge/index.vue": {
-    "file": "assets/index-BvO2K6rq.js",
+    "file": "assets/index-BFOFcDq0.js",
     "name": "index",
     "src": "src/views/system/knowledge/index.vue",
     "isDynamicEntry": true,
     "imports": [
       "_index-CwAVuqeq.js",
       "index.html",
-      "_AddOutline-COTHRvY4.js",
+      "_AddOutline-dwOCO9Xm.js",
       "_index-qFyJwsfU.js"
     ]
   },
   "src/views/system/notices/index.vue": {
-    "file": "assets/index-C2fPa5iT.js",
+    "file": "assets/index-SRZo4KkD.js",
     "name": "index",
     "src": "src/views/system/notices/index.vue",
     "isDynamicEntry": true,
     "imports": [
       "_index-CwAVuqeq.js",
       "index.html",
-      "_AddOutline-COTHRvY4.js",
+      "_AddOutline-dwOCO9Xm.js",
       "_index-qFyJwsfU.js"
     ]
   },
   "src/views/system/payment/index.vue": {
-    "file": "assets/index-rbx92JYS.js",
+    "file": "assets/index-Orsn05z2.js",
     "name": "index",
     "src": "src/views/system/payment/index.vue",
     "isDynamicEntry": true,
     "imports": [
       "_index-CwAVuqeq.js",
       "index.html",
-      "_AddOutline-COTHRvY4.js",
+      "_AddOutline-dwOCO9Xm.js",
       "_index-qFyJwsfU.js"
     ]
   },
   "src/views/system/plugins/index.vue": {
-    "file": "assets/index-CAcY_Ex9.js",
+    "file": "assets/index-0hb5jbGX.js",
     "name": "index",
     "src": "src/views/system/plugins/index.vue",
     "isDynamicEntry": true,
     "imports": [
       "_index-CwAVuqeq.js",
       "index.html",
-      "_SearchOutline-MbAhyGct.js",
-      "_CloudUploadOutline-52rKTgqZ.js",
+      "_SearchOutline-DJfaQ3_J.js",
+      "_CloudUploadOutline-DGxKAGNA.js",
       "_index-qFyJwsfU.js"
     ]
   },
   "src/views/system/themes/index.vue": {
-    "file": "assets/index-0gbQDkQ4.js",
+    "file": "assets/index-DeSYHla9.js",
     "name": "index",
     "src": "src/views/system/themes/index.vue",
     "isDynamicEntry": true,
     "imports": [
       "_index-CwAVuqeq.js",
-      "_CloudUploadOutline-52rKTgqZ.js",
+      "_CloudUploadOutline-DGxKAGNA.js",
       "index.html",
       "_index-qFyJwsfU.js"
     ]
   },
   "src/views/tickets/index.vue": {
-    "file": "assets/index-DjExer3D.js",
+    "file": "assets/index-dO2BSu1V.js",
     "name": "index",
     "src": "src/views/tickets/index.vue",
     "isDynamicEntry": true,
@@ -345,7 +345,7 @@
     ]
   },
   "src/views/users/index.vue": {
-    "file": "assets/index-C2swdwj1.js",
+    "file": "assets/index-Cn4G7wYL.js",
     "name": "index",
     "src": "src/views/users/index.vue",
     "isDynamicEntry": true,
